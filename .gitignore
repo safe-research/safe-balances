@@ -3,6 +3,11 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# generated output / local run state / manually-exported holder data
+staking_stakers_cache.json
+*.csv
+.pytest_cache/
+
 # C extensions
 *.so
 

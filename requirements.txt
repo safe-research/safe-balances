@@ -1,0 +1,5 @@
+web3>=7.0.0,<8
+requests>=2.32.0,<3
+python-dotenv>=1.0.0,<2
+tqdm>=4.66.0,<5
+pytest>=8.0.0,<9
